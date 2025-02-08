@@ -1,4 +1,5 @@
 # Freight-Frenzy-2021-2022-RO050
-## RO050's full robot code
+RO050's full robot code
 
-This is what our team worked together for an entire FTC Season. The entire code is written in Java and is using some specific libraries.
+This is the last version of the software department in the Freight Frenzy FTC season.
+Important technologies used: EasyOpenCV, Roadrunner.
